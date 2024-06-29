@@ -1,7 +1,3 @@
-# Project React - Cosden Solutions
-
-Learn React by building a real-world project.
-
 ## Running the project
 
 To run the project, follow these steps.
